@@ -19,7 +19,7 @@ SELECT
     END AS bonus
 FROM employees
 ORDER BY employee_id;
-
+```
 
 Approach:
 
